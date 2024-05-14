@@ -1,0 +1,19 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+h3 {
+    border-bottom: 2px solid #ccc;
+}
+
+ul li{
+    margin-left: 30px;
+    list-style: none;
+}
+
+li input {
+    margin-left: 100px;
+}

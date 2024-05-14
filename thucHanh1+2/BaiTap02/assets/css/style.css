@@ -1,0 +1,29 @@
+h1 {
+    border-left: 7px solid #9e1d1d;
+    color: #9e1d1d;
+}
+
+#ds {
+    width: 60%;
+    margin: 16px 16px;
+}
+
+#ds ul {
+    display: flex;
+    
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.khoaHoc-item img {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.khoaHoc-item-content {
+    text-align: center;
+}
